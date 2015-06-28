@@ -1,6 +1,7 @@
 alias gs="git status"
 alias ga="git add"
 alias gc="git commit"
+alias gr="git rebase"
 alias gco="git checkout"
 alias gap="git add --patch"
 alias gb="git branch"
